@@ -119,7 +119,7 @@ GEM
       activerecord (= 6.0.3.3)
       activestorage (= 6.0.3.3)
       activesupport (= 6.0.3.3)
-      bundler (>= 1.3.0)
+      bundler (>= 2.0.2)
       railties (= 6.0.3.3)
       sprockets-rails (>= 2.0.0)
     rails-dom-testing (2.0.3)
@@ -187,7 +187,7 @@ GEM
     zeitwerk (2.4.0)
 
 PLATFORMS
-  x64-mingw32
+
 
 DEPENDENCIES
   bootsnap (>= 1.4.2)
